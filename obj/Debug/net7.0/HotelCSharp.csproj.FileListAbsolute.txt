@@ -1,0 +1,15 @@
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\bin\Debug\net7.0\HotelCSharp.exe
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\bin\Debug\net7.0\HotelCSharp.deps.json
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\bin\Debug\net7.0\HotelCSharp.runtimeconfig.json
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\bin\Debug\net7.0\HotelCSharp.dll
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\bin\Debug\net7.0\HotelCSharp.pdb
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\obj\Debug\net7.0\HotelCSharp.csproj.AssemblyReference.cache
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\obj\Debug\net7.0\HotelCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\obj\Debug\net7.0\HotelCSharp.AssemblyInfoInputs.cache
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\obj\Debug\net7.0\HotelCSharp.AssemblyInfo.cs
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\obj\Debug\net7.0\HotelCSharp.csproj.CoreCompileInputs.cache
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\obj\Debug\net7.0\HotelCSharp.dll
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\obj\Debug\net7.0\refint\HotelCSharp.dll
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\obj\Debug\net7.0\HotelCSharp.pdb
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\obj\Debug\net7.0\HotelCSharp.genruntimeconfig.cache
+D:\SERRATEC\Projetos Pessoais Grazi\CSharp\HotelCSharp\obj\Debug\net7.0\ref\HotelCSharp.dll
