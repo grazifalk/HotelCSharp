@@ -1,3 +1,4 @@
+using HotelCSharp.Exceptions;
 using HotelCSharp.Interfaces;
 
 namespace HotelCSharp.Models
@@ -26,6 +27,12 @@ namespace HotelCSharp.Models
 
         public void PromoverParaGerente(Camareira camareira)
         {
+            if(camareira.CPF == null)
+            {
+                throw new DocumentosInvalidosException(); //argumento em branco mostra a mensagem padrão.
+            }
+
+
             Hotel.ContratarGerente(new Gerente(){
                 Nome = camareira.Nome,
                 CPF = camareira.CPF,
@@ -35,6 +42,11 @@ namespace HotelCSharp.Models
 
         public void PromoverParaGerente(Recepcionista recepcionista)
         {
+            if(recepcionista.CPF == null)
+            {
+                throw new DocumentosInvalidosException("Documentação incompleta! Regularize seu CPF para receber a promoção.");
+            }
+
             Hotel.ContratarGerente(new Gerente(){
                 Nome = recepcionista.Nome,
                 CPF = recepcionista.CPF,
