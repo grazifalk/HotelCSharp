@@ -1,6 +1,6 @@
 namespace HotelCSharp.Interfaces
 {
-    public interface IGerente : ICamareira, IRecepcionista
+    public interface IGerente : ICamareira, IRecepcionista, IPessoa
     {
         void ConhecerMuitoBemOHotel();
     }

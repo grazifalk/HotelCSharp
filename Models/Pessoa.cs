@@ -1,6 +1,8 @@
+using HotelCSharp.Interfaces;
+
 namespace HotelCSharp.Models
 {
-    public abstract class Pessoa
+    public abstract class Pessoa : IPessoa
     {
         public string Nome { get; set; }
 
@@ -20,8 +22,10 @@ namespace HotelCSharp.Models
             Telefone = telefone;
         }
 
-        public abstract void SeApresentar();
-        
-
+        public virtual void SeApresentar()
+        {
+            Console.WriteLine("Sou a pessoa " + Nome);
+            Console.WriteLine();
+        }
     }
 }

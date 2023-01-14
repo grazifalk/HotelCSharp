@@ -1,6 +1,6 @@
 namespace HotelCSharp.Interfaces
 {
-    public interface ICamareira
+    public interface ICamareira : IPessoa
     {
         void ArrumarACama();
 
